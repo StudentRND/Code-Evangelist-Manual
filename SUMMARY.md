@@ -6,4 +6,5 @@
 * Providing Help
 * Making Things Fun
 * Creating Community
+* Inclusion
 
