@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* Get Them to Try It
+* Make it a Positive Experience
+* Keep Them Going
+
