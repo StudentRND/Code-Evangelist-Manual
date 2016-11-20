@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Misconceptions
+* [Misconceptions](misconceptions.md)
 * Creating the Atmosphere
 * Providing Help
 * Making Things Fun
