@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Misconceptions](misconceptions.md)
-* Creating the Atmosphere
+* [Creating the Atmosphere](creating-the-atmosphere.md)
 * Providing Help
-* Making Things Fun
+* [Making Things Fun](making-things-fun.md)
 * Creating Community
 * Inclusion
 
