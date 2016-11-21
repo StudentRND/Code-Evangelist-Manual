@@ -2,9 +2,9 @@ Like many things, there's a power law distribution when it comes to getting stud
 
 # Evangelism Isn't Teaching
 
-Notice what wasn't mentioned above: teaching. That's because \_**the job of a Code Evangelist isn't to teach coding. **\_Many programs already fill that gap, but most students still aren't interested in learning.
+Notice what wasn't mentioned above: teaching. That's because _**the job of a Code Evangelist isn't to teach coding.**_** **Many programs already fill that gap, but most students still aren't interested in learning.
 
-_**Code Evangelism is about inspiring students to want to code.**_
+**_Code Evangelism is about inspiring students to want to code._**
 
 We believe that, when students are excited about coding, they'll figure out the _how_ on their own. Many of us followed that exact path; maybe that's even how you got into coding?
 
