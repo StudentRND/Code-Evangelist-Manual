@@ -33,7 +33,7 @@ Let's talk a little about biases
 
 # Privileges
 
-If you had to choose only a few of these privlidges to retain, which would you choose?
+If you could only retain a few of these privlidges, which would you give up?
 
 * Being able to create video game characters which look like you.
 * Finding role models and mentors of the same gender as you.
