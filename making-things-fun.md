@@ -32,7 +32,7 @@ Pretend I ask you, "do you want ice cream?" Almost all reasonable people will sa
 
 It's usually difficult to get attendees to participate in activities, but it's worth the effort spent convincing them. Evangelists who get attendees to participate in activities build up the community and increase morale; evangelists who don't actually decrease beginners' self-confidence.
 
-## When to Help
+# When to Help
 
 How do you figure out if this is necessary? Patrol the event constantly, looking for signs such as browsing reddit or playing video games, staring blankly at the screen, or physical stress markers \(biting nails, messing with hair, and so on\).
 
@@ -40,7 +40,7 @@ This is okay once-and-a-while, but if someone is stressed for a long time, you s
 
 If it's only one person, you should talk to them directly. Ask if they need help, or ask them for help with an activity which would take their mind off the problem for a while.
 
-If you see a few people, you can also do a minor activity, such as walking around offering people snacks, soda, and swag. 
+If you see a few people, you can also do a minor activity, such as walking around offering people snacks, soda, and swag.
 
 Most often, though, stressed attendees come in waves, and seeing some stressed attendees might be a sign that it's a good time for a group activity.
 
