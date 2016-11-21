@@ -1,4 +1,10 @@
-Being inclusive isn't too complicated: it's about understanding alternatives. We're going to spend some time understanding some common ways people choose to describe their sex, gender identity, and sexuality. Our goal is to expand our conception of what's "normal" by becoming more aware of different ways people live, to talk about the experience of having a stigmatized\/marginalized identity, and to learn about how to advocate for and support those with particular identities.
+Being inclusive isn't too complicated: it's about understanding alternatives.
+
+We see very strong messages about what's normal each day: in advertisements, movies, and TV, but also in the communities we live in. When we only see a certain type of person or behavior, it's sometimes easy and natural to assume that it should be true of all people, and those who are different aren't "right."
+
+In learning to be inclusive, we're asking you to unlearn these assumptions. That's tricky because we've been taught what's normal for a _long_ time, and sometimes there's only one person showing us an alternative.
+
+We're going to spend some time understanding some common ways people choose to describe their sex, gender identity, and sexuality. Our goal is to expand our conception of what's "normal" by becoming more aware of different ways people live, to talk about the experience of having a stigmatized\/marginalized identity, and to learn about how to advocate for and support those with particular identities.
 
 Later, we'll also discuss some common physical and mental disabilities.
 
