@@ -13,7 +13,7 @@ Let's start with this example: if CodeDay is inclusive, why don't we allow...
 
 Certain internet groups would take this as proof that inclusion is flawed, but we think it shows a misunderstanding of inclusivity.
 
-Few spaces are targeted at everyone, and that's ok; there are endless important reasons to exclude some groups from participating in some things. However, we sometimes exclude groups unintentionally \(or worse, intentionally exclude them out of ignorance\).
+Few spaces are targeted at everyone, and that's ok; there are endless important reasons to exclude some groups from participating in some things. However, we sometimes exclude groups unintentionally \(or worse, intentionally out of ignorance\).
 
 In talking about inclusion, we're talking about purposefully doing things to make people feel that they are part of our community, and not doing things which make them feel separate.
 
