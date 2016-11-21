@@ -1,4 +1,6 @@
-For the last few years, "inclusion" has been a large goal for many in the technology industry, and we think that's great! However, it's also become a buzzword for many of us: we say we need to be inclusive without thinking about what it means or how to achieve it. So before we talk about how to be inclusive, let's start by talking about what that means, why it's important, and TK.
+For the last few years, "inclusion" has been a large goal for many in the technology industry, and we think that's great! However, it's also become a buzzword for many of us: we say we need to be inclusive without thinking about what it means or how to achieve it.
+
+So before we talk about how to be inclusive, let's start by talking about what that means, why it's important. Then, in the following sections, we'll look at how we can create an inclusive atmosphere.
 
 # What Is Inclusion?
 
@@ -26,32 +28,4 @@ Here's a practical argument: when participants feel normal and validated, they'r
 Really, though, being inclusive is something that we want to do because it's the right thing to do. Most everyone wants a feeling of "belongingness" and dreads a feeling of being an outsider; being intentionally inclusive increases the chance that someone will find a place in our community.
 
 It's _particularly_ important for you because our community looks up to Code Evangelists, so modeling good inclusive behavior makes the community more inclusive as a whole.
-
-# Biases
-
-Let's talk a little about biases. TK
-
-# Privileges
-
-Many people reading this section will be in the majority demographic in most important ways. From the position, it can often be difficult to see how those characteristics can dramatically affect others' interactions with the world.
-
-Take a few minutes to read through this very small selection of privlidges you might have. If you could only retain a few of these privlidges, which would you choose? Which would you give up?
-
-* Being able to create video game characters which look like you.
-* Finding role models and mentors of the same gender as you.
-* Being referred to with pronouns which match your gender.
-* Knowing that your ideas are being heard, and listeners aren't just hoping for a date.
-* Using public bathrooms without fear of being harassed.
-* Being affectionate with a partner in public without threat.
-* Freely being able to discuss your relationship with others.
-* Having others comfort you when a relationship ends.
-* Having your partner accepted by your family.
-* Making new friends without fear that they'll cut contact when they get to know you.
-
-Most of these samples had to do with sex and gender identity, but there are many other important factors which might lead to privlidges. Take a moment and consider what might have been unavailable or more difficult if not for:
-
-* Your ethnicity
-* Where you live
-* Your income, and your family's income growing up
-* Your physical \(and mental\) abilities
 
