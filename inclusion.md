@@ -17,10 +17,6 @@ Few spaces are targeted at everyone, and that's ok; there are endless important 
 
 In talking about inclusion, we're talking about purposefully doing things to make people feel that they are part of our community, and not doing things which make them feel separate.
 
-We see very strong messages about what's normal each day: in advertisements, movies, and TV, but also in the communities we live in. When we only see a certain type of person or behavior, it's sometimes easy and natural to assume that it should be true of all people, and those who are different aren't "right."
-
-In learning to be inclusive, we're asking you to unlearn these assumptions. That's tricky because we've been taught what's normal for a _long_ time, and sometimes there's only one person showing us an alternative.
-
 # Why Is Inclusion Important?
 
 Here's a practical argument: when participants feel normal and validated, they're way more likely to take risks and try new things, both of which are necessary for beginners to get interested in technology.
