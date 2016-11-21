@@ -29,7 +29,7 @@ It's _particularly_ important for you because our community looks up to Code Eva
 
 # Biases
 
-Let's talk a little about biases
+Let's talk a little about biases. TK
 
 # Privileges
 
