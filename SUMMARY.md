@@ -7,6 +7,7 @@
 * [Making Things Fun](making-things-fun.md)
 * [Creating Community](creating-community.md)
 * [People Who Aren't Like You](inclusion.md)
+    * [The Basics](the-basics.md)
     * LGBTQ Awareness
     * [Mental Wellness](mental-wellness.md)
 * Getting in Fights
