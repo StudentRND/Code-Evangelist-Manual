@@ -11,7 +11,7 @@ Let's start with this example: if CodeDay is inclusive, why don't we allow...
 * ...sexual behavior? \(We're possibly excluding people with certain mental disorders.\)
 * ...students who want to create exclusive cultures? \(We're excluding GamerGate.\)
 
-Certain internet groups would take this as proof that inclusion is flawed, but we think it shows a flawed definition of inclusivity.
+Certain internet groups would take this as proof that inclusion is flawed, but we think it shows a misunderstanding of inclusivity.
 
 Few spaces are targeted at everyone, and that's ok; there are endless important reasons to exclude some groups from participating in some things. However, we sometimes exclude groups unintentionally \(or worse, intentionally exclude them out of ignorance\).
 

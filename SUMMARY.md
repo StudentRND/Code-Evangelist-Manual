@@ -8,7 +8,7 @@
 * [Creating Community](creating-community.md)
 * [People Who Aren't Like You](inclusion.md)
     * [The Basics](the-basics.md)
-    * LGBTQ Awareness
+    * [LGBTQ Awareness](lgbtq-awareness.md)
     * [Mental Wellness](mental-wellness.md)
 * Getting in Fights
 
