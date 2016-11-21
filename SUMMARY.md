@@ -6,5 +6,7 @@
 * [Providing Help](providing-help.md)
 * [Making Things Fun](making-things-fun.md)
 * [Creating Community](creating-community.md)
-* Inclusion
+* [Inclusion](inclusion.md)
+    * LGBTQ Awareness
+    * [Mental Wellness](mental-wellness.md)
 
