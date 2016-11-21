@@ -4,7 +4,7 @@ If you ask a room of 100 random high school students what they think "coding" lo
 
 Another quarter will describe this scene from The Social Network:
 
-{% video %}https:\/\/www.youtube.com\/watch?v=4c0lk-LtLI0{% endvideo %}
+{% youtube %}https:\/\/www.youtube.com\/watch?v=4c0lk-LtLI0{% endyoutube %}
 
 Most of the remainder will talk about being forced to learn Java \(or worse, C++ or LISP\) by a teacher or parent, and having had little idea why it was something they'd be seriously interested in pursuing.
 
