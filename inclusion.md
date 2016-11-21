@@ -53,5 +53,5 @@ Most of these samples had to do with sex and gender identity, but there are many
 * Your ethnicity
 * Where you live
 * Your income, and your family's income growing up
-* Your physical and mental abilities
+* Your physical \(and mental\) abilities
 
