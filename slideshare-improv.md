@@ -10,9 +10,9 @@ There are generally no winners for slideshare improv, but if you'd like to give 
 
 Despite the fact that it's named "slideshare improv", you have a few options for where to find slide decks:
 
-* http:\/\/www.slideshare.net\/
-* https:\/\/speakerdeck.com\/
-* http:\/\/noteandpoint.com\/
-* https:\/\/prezi.com\/gallery\/
-* https:\/\/www.emaze.com\/get-inspired\/
+* [http:\/\/www.slideshare.net\/](http://www.slideshare.net/)
+* [https:\/\/speakerdeck.com\/](https://speakerdeck.com/)
+* [http:\/\/noteandpoint.com\/](http://noteandpoint.com/)
+* [https:\/\/prezi.com\/gallery\/](https://prezi.com/gallery/)
+* [https:\/\/www.emaze.com\/get-inspired\/](https://www.emaze.com/get-inspired/)
 
