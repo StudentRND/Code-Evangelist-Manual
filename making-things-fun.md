@@ -14,12 +14,11 @@ Activities allow attendees to take their mind off their problems for a bit. This
 
 You can create your own activities, but here are some we've found to be fun:
 
-* 2am jog
 * picture drawing contests
 * mini programming contests
-* karaoke
-* dancing
-* large group sing-alongs \("I'll Make a Man Out of You"\)
+* karaoke\/ large group sing-alongs \("I'll Make a Man Out of You"\) 
+* slideshare improv
+* lightning talks
 * group outings \(see related subsection for safety concerns\)
 
 Activities should be used sparingly, and should be kept brief: 15-20 minutes for something which might distract non-participants \(like karaoke in the same room as coding\), or an hour for those which only pull people away from their team \(like an outing\).

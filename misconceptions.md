@@ -10,5 +10,5 @@ Most of the remainder will talk about being forced to learn Java \(or worse, C++
 
 # Don't Encourage Coding
 
-With such negative expectations, we shouldn't be surprised that most students aren't interested in learning how to code.
+With such negative expectations, we shouldn't be surprised that most students aren't interested in learning how to code, which is exactly why you shouldn't encourage people to code.
 
