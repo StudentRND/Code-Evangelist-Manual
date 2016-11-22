@@ -6,3 +6,13 @@ Have you ever watched a technical talk and thought, "this is absolute gibberish?
 4. Open the best deck, and give the presenters a clicker \(or mouse, or whatever else you have to advance the slides\).
 5. After a count-down, the presenters should turn around to see their slide deck, and then immediately start trying to present.  Start a timer for three minutes. 
 
+There are generally no winners for slideshare improv, but if you'd like to give out a prize or award, you can hold an applause poll after everyone has presented. \(The presenter with the loudest cheer is the winner.\)
+
+Despite the fact that it's named "slideshare improv", you have a few options for where to find slide decks:
+
+* http:\/\/www.slideshare.net\/
+* https:\/\/speakerdeck.com\/
+* http:\/\/noteandpoint.com\/
+* https:\/\/prezi.com\/gallery\/
+* https:\/\/www.emaze.com\/get-inspired\/
+
