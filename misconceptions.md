@@ -32,8 +32,14 @@ As you check in each attendee, ask her what brought her to the event. Here are s
 - How do you think you'll help out on a team?
 
 If you have multiple check-in staff, you should not only ensure each staff member is asking these questions, but you should also assign any Code Evangelist-trained staff to mingle with already-checked-in attendees (and, if there's a line, in-line attendees) asking the same questions.
-WhenWhenever you meet a beginner attendee, probe as far as needed to learn more about their non-coding interests.
+
+When you meet a beginner attendee, probe as far as needed to learn more about their non-coding interests. Based on local promotion, you'll usually meet beginners who fall into a few archetypes:
+
+- Students who are directly interested in programming themelves.
+- Students whose parents are forcing them to attend.
+- Students who want to contribute to games by making art.
+- Students who want to contribute to games by making sound effects, music, or other ways.
+- Students who registered for the event because it seems fun, but don't know how they'll contribute.
+- Students interested in business or marketing.
  
 # As the event progresses, look for ways to encourage attendees to participate in coding on their teams.
-
-We will often market to students interested in programming and 
