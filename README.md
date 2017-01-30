@@ -2,9 +2,9 @@ Like many things, there's a power law distribution when it comes to getting stud
 
 # Evangelism Isn't Teaching
 
-Notice what wasn't mentioned above: teaching. That's because **_the job of a Code Evangelist isn't to teach coding._**** **Many programs already fill that gap, but most students still aren't interested in learning.
+Notice what wasn't mentioned above: teaching. That isn't your job -- many programs already fill that gap, but most students still aren't interested in learning.
 
-_**Code Evangelism is about inspiring students to want to code.**_
+_**Code Evangelism is about inspiring students to want to code, not teaching them how.**_
 
 We believe that, when students are excited about coding, they'll figure out the _how_ on their own. Many of us followed that exact path; maybe that's even how you got into coding?
 
@@ -16,16 +16,17 @@ For many students, we can't: coding isn't for everyone. A majority of students, 
 
 To have the highest chance of convincing students to fall in love with coding, we need to:
 
-1. Get them to try it:
-  1. Sneak around existing misconceptions.
-  2. Create a friendly and supportive atmosphere to encourage exploration.
+1. Get them to try it:  
+   1. Sneak around existing misconceptions.  
+   2. Create a friendly and supportive atmosphere to encourage exploration.
 
-2. Make it a positive experience:
-  1. Identify frustrated\/overwhelmed students, and provide \(some\) help.
-  2. Keep things fun.
+2. Make it a positive experience:  
+   1. Identify frustrated/overwhelmed students, and provide \(some\) help.  
+   2. Keep things fun.
 
-3. Keep them going:
-  1. Empower students to solve their own problems.
-  2. Foster a broader student tech community.
+3. Keep them going:  
+   1. Empower students to solve their own problems.  
+   2. Foster a broader student tech community.
+
 
 
