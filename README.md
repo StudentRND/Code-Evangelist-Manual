@@ -14,15 +14,18 @@ It's also important that you don't get overly sidetracked by focusing on putting
 
 Being a Code Evangelist requires recognizing that personal interactions are often inefficient, but that you should prioritize them anyway:
 
-- It's better to take an extra 45 seconds per check-in to learn a little about each attendee, even if it means a line forms.
-- It's better to start the kickoff 15 minutes late, if the 15 minutes is necessary to run a group activity.
-- It's better to shift your workshop schedule later if it means getting to know students at the beginning of the event.
-- It's better to let a line form for dinner, because students meet each other when they're in line.
+* It's better to take an extra 45 seconds per check-in to learn a little about each attendee, even if it means a line forms.
+* It's better to start the kickoff 15 minutes late, if the 15 minutes is necessary to run a group activity.
+* It's better to shift your workshop schedule later if it means getting to know students at the beginning of the event.
+* It's better to let a line form for dinner, because students meet each other when they're in line.
 
 # You're the life of the party.
 
-Your #1 goal is to make sure people have fun. That's it. (Well, ok, you need to make sure they're safe, too, but beyond that, that's it.)
+Your \#1 goal is to make sure people have fun. That's it. \(Well, ok, you need to make sure they're safe, too, but beyond that, that's it.\)
 
 If you run an event where everyone has fun, it will have successful outcomes.
 
-As we've learned over almost 300 events, that's often harder than it sounds (especially getting beginners to have fun), so you shouldn't take this responsibility lightly. You should ensure you know this guide well, because when things get hectic on the day-of, it's important that you don't forget the important things.
+As we've learned over almost 300 events, that's often harder than it sounds \(especially getting beginners to have fun\), so you shouldn't take this responsibility lightly.
+
+You should ensure you know this guide well, because when things get hectic on the day-of, it's important that you don't forget the important things.
+
