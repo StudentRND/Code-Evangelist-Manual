@@ -42,4 +42,12 @@ When you meet a beginner attendee, probe as far as needed to learn more about th
 - Students who registered for the event because it seems fun, but don't know how they'll contribute.
 - Students interested in business or marketing.
  
-# As the event progresses, look for ways to encourage attendees to participate in coding on their teams.
+# Have individualized interactions with students.
+
+As the event progresses, you'll need to look for ways to encourage attendees to participate in coding on their teams, which means:
+
+1. remembering what they're interested in.
+2. identifying points where you can engage those interests.
+3. acting on it.
+
+You should 
