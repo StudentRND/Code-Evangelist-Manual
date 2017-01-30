@@ -1,32 +1,28 @@
 Like many things, there's a power law distribution when it comes to getting students excited about technology: a small number of people make a huge difference in a large number of students' lives. When we started CodeDay, we decided to call these people Code Evangelists, because they go out into the world to spread a love of code.
 
-# Evangelism Isn't Teaching
+# Being a Code Evangelist isn't like being a teacher.
 
 Notice what wasn't mentioned above: teaching. That isn't your job -- many programs already fill that gap, but most students still aren't interested in learning.
 
 _**Code Evangelism is about inspiring students to want to code, not teaching them how.**_
 
-We believe that, when students are excited about coding, they'll figure out the _how_ on their own. Many of us followed that exact path; maybe that's even how you got into coding?
+We believe that, when students are excited about coding, they'll figure out the _how_ on their own. Many of us followed that exact path. Maybe that's even how you got into coding?
 
-# A Formula for Falling In Love
+# Being a Code Evangelist also isn't like being a logistics expert.
 
-You might have seen us describe this process as "inspiring students to fall in love with coding." In a practical sense, though, how can we inspire students to fall in love with anything?
+It's also important that you don't get overly sidetracked by focusing on putting on an effecient event. An event where there's no check-in line, where food arrives warm and is distributed quickly, and where workshops run on-time _can still be a total failure._
 
-For many students, we can't: coding isn't for everyone. A majority of students, however, have unrealistic expectations of coding, and it's often as simple as showing them it's not what they thought. \(Many students, when asked, will still describe coding as typing 1s and 0s!\)
+Being a Code Evangelist requires recognizing that personal interactions are often inefficient, but that you should prioritize them anyway:
 
-To have the highest chance of convincing students to fall in love with coding, we need to:
+- It's better to take an extra 45 seconds per check-in to learn a little about each attendee, even if it means a line forms.
+- It's better to start the kickoff 15 minutes late, if the 15 minutes is necessary to run a group activity.
+- It's better to shift your workshop schedule later if it means getting to know students at the beginning of the event.
+- It's better to let a line form for dinner, because students meet each other when they're in line.
 
-1. Get them to try it:  
-   1. Sneak around existing misconceptions.  
-   2. Create a friendly and supportive atmosphere to encourage exploration.
+# You're the life of the party.
 
-2. Make it a positive experience:  
-   1. Identify frustrated/overwhelmed students, and provide \(some\) help.  
-   2. Keep things fun.
+Your #1 goal is to make sure people have fun. That's it. (Well, ok, you need to make sure they're safe, too, but beyond that, that's it.)
 
-3. Keep them going:  
-   1. Empower students to solve their own problems.  
-   2. Foster a broader student tech community.
+If you run an event where everyone has fun, it will have successful outcomes.
 
-
-
+As we've learned over almost 300 events, that's often harder than it sounds (especially getting beginners to have fun), so you shouldn't take this responsibility lightly. You should ensure you know this guide well, because when things get hectic on the day-of, it's important that you don't forget the important things.
