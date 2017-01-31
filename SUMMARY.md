@@ -13,6 +13,7 @@
   * [Lightning Talks](lightning-talks.md)
   * [Group Outings](group-outings.md)
 * [Creating Community](creating-community.md)
+* [What Should You Be Doing?](what-should-you-be-doing.md)
 * [People Who Aren't Like You](inclusion.md)
   * [The Basics](the-basics.md)
   * [LGBTQ Awareness](lgbtq-awareness.md)
