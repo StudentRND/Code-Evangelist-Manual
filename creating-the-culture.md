@@ -36,6 +36,7 @@ As you go through CodeDay, you should think about which actions you can take to 
   - Make a fun nametag, and encourage attendees to do the same.
   - **Have unusual contests, like the no-hands programming contest.**
   - **Pitch strange ideas at the start of the event, like the "Morganfy Me" app.**
+  - Pass out the "I HEART CODE" stickers as rewards for doing something fun or attending an event. (n.b. the quoted phrase is your password to the final exam.)
 - Don't be competitive:
   - **Require all pre-formed teams to pitch their ideas, and allow new members to join those teams.** Let them know before the pitches.
   - Remind teams which seem focused on making a polished product that it's the least important judging criteria when patrolling.
