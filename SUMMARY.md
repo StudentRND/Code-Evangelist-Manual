@@ -17,5 +17,6 @@
   * [The Basics](the-basics.md)
   * [LGBTQ Awareness](lgbtq-awareness.md)
   * [Mental Wellness](mental-wellness.md)
-* Getting in Fights
+* [Getting in Fights](getting-in-fights.md)
+* [Final Exam](final-exam.md)
 
