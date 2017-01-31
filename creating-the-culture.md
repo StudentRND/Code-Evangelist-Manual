@@ -15,7 +15,6 @@ CodeDay is no different, but getting our culture right is essential to having a 
 - **How decisions are made:**
   - Students can make decisions, we're not teachers.
   - Evangelists will promote any good idea, we're not bureaucratic.
-  - You don't need permission to do anything (non-disruptive, and within the Code of Conduct)
 - **Who gets rewarded, and who gets punished:**
   - People who love code, and make something which shows they care about learning and exploring win.
   - People who try to show off don't get anything.
@@ -32,8 +31,22 @@ As you go through CodeDay, you should think about which actions you can take to 
   - **Host a group tournament before things get started, such as Rock-Paper-Scissors.**
   - Encourage all groups to get meals at the same time. Allow lines to form, and encourage talking in the lines.
   - Make the midnight snack an "ice cream social" and require no coding for 15 minutes to get the snack.
-  
-  - Talk about what areas of code you struggle with when asking students about their goals.
+  - Number nametags with a random number from 1-5 as attendees pick them up. Host an activity later requiring attendees to meet up with their number-groups.
 - Have fun:
   - Make a fun nametag, and encourage attendees to do the same.
-  - Have unusual contests, like the no-hands programming contest.
+  - **Have unusual contests, like the no-hands programming contest.**
+  - **Pitch strange ideas at the start of the event, like the "Morganfy Me" app.**
+- Don't be competitive:
+  - **Require all pre-formed teams to pitch their ideas, and allow new members to join those teams.** Let them know before the pitches.
+  - Remind teams which seem focused on making a polished product that it's the least important judging criteria when patrolling.
+  - Don't allow teams to present pitch decks.
+  - Ensure mentors are briefed on the importance of fun.
+- Students can make decisions:
+  - Let students know that they can give you ideas for how to make the event more fun.
+  - Give a random student who seems stressed out the choice between a few possible activities for the entire group.
+  - Ask a student to lead an activity for you.
+  - Let students know how they can become volunteers.
+  - Encourage more experienced students to become impromptu mentors.
+- Evangelists will promote good ideas:
+  - Even when you don't like an idea, consider aspects of the idea which could be good.
+  - Use "Yes, and..." phrasing to make an incomplete suggestion better.
