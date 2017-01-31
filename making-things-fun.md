@@ -14,12 +14,12 @@ Activities allow attendees to take their mind off their problems for a bit. This
 
 You can create your own activities, but here are some we've found to be fun:
 
-* picture drawing contests
-* mini programming contests
-* karaoke\/ large group sing-alongs \("I'll Make a Man Out of You"\) 
-* slideshare improv
-* lightning talks
-* group outings \(see related subsection for safety concerns\)
+* **Picture Drawing Contests:** Assign a subject (such as "corgis") and award small prizes for the best drawings of that subject. Other attendees or volunteers can be the judges.
+* **Mini Programming Contests:** Offer a small prize for the first to code a relatively simple program. You can find plenty of programming challenges on https://projecteuler.net/archives
+* **Karaoke or Group Sing-Alongs:** (e.g. "I'll Make a Man Out of You") 
+* **Slideshare Improv:** Run in a workshop room, attendees take turns being given a random slideshow from [SpeakerDeck](https://speakerdeck.com/), [SlideShare](http://www.slideshare.net/), [Note & Point](http://noteandpoint.com/), [emaze](https://www.emaze.com/get-inspired/), or [Prezi](https://prezi.com/gallery/). They need to give a three-minute talk while seeing the slides for the first time.
+* **Lightening Talks:** Run as a workshop, participants are given the opportunity to give a four-minute talk about anything which is interesting to them.
+* **Group Outings:** A group of people walks to a nearby convenience store, landmark, etc late at night. All minors should sign out and in, at least two volunteers should go (one at the back, and one at the front), and regular counts should be made to ensure no one was lost. 
 
 Activities should be used sparingly, and should be kept brief: 15-20 minutes for something which might distract non-participants \(like karaoke in the same room as coding\), or an hour for those which only pull people away from their team \(like an outing\).
 
