@@ -1,5 +1,3 @@
-# Have individualized interactions with students.
-
 As the event progresses, you'll need to look for ways to encourage attendees to participate in coding on their teams, which means:
 
 1. remembering what they're interested in.
