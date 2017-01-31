@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Misconceptions](misconceptions.md)
   * [Individualized Interactions](misconceptions/individualized-interactions.md)
-* [Creating the Atmosphere](creating-the-atmosphere.md)
+* [Creating the Culture](creating-the-culture.md)
 * [Providing Help](providing-help.md)
 * [Making Things Fun](making-things-fun.md)
   * [Picture Drawing Contests](picture-drawing-contests.md)
