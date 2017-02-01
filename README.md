@@ -29,3 +29,12 @@ As we've learned over almost 300 events, that's often harder than it sounds \(es
 
 You should ensure you know this guide well, because when things get hectic on the day-of, it's important that you don't forget the important things.
 
+# Just as a note: you need to complete our training to call yourself a Code Evangelist.
+
+Code Evangelist is actually a registered trademark of StudentRND (it's actually Code Evangelist®), which means we're allowed to exercise some control over the term.
+
+The reason we created and trademarked a special term for this role instead of using something generic like "facilitator" is because we think Code Evangelists perform a unique role in their communities, and we want to make sure they do so to the best of their ability.
+
+If you're reading this document because you found it online, but you want to be a official Code Evangelist, email evg@srnd.org and let us know what sparked your interest.
+
+Although Code Evangelists often run CodeDays, it's by no means required: it's a useful set of skills to have for any community leader!
