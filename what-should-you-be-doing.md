@@ -4,9 +4,13 @@ Either way, as a Code Evangelist, you can use the following as a cheat-sheet of 
 
 # Hour-by-Hour
 
-## The Early-Event
+It's important to remember that you should almost always be doing _something._ Except at very small events, there's usually someone feeling just a little sad, stressed out, or overly introverted who you can be helping.
 
-(The only thing you'll need to use your laptop for the entire event is the early event: you can access check-in and the kickoff slides on the Day-Of page on Clear.)
+Because you should be busy, the only thing you'll need to use your laptop for the entire event is the early event: you can access check-in and the kickoff slides on the Day-Of page on Clear. Otherwise, leave it in your backpack.
+
+You'll also notice that this is not a "pull" job -- students will not come to you with their problems. (They might ask for help with big, code-related problems, but that's not really your job.) Don't set up a station, you should be patrolling the venue, looking for people who need help.
+
+## The Early-Event
 
 - **11am-noon:** [Check-in!](https://clear.codeday.org/dayof) Focus on first-impressions. Make sure students know to be friendly, to meet new people, and to not be competitive with events and by meeting people and asking questions.
 - **Noon:** [Kickoff!](https://clear.codeday.org/dayof/deck/slides) Make sure existing teams pitch their ideas and recruit new members, and that shy students speak up (pitch silly ideas). 
