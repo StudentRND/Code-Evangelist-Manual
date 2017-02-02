@@ -10,7 +10,7 @@ We believe that, when students are excited about coding, they'll figure out the 
 
 # Being a Code Evangelist also isn't like being a logistics expert.
 
-It's also important that you don't get overly sidetracked by focusing on putting on an effecient event. An event where there's no check-in line, where food arrives warm and is distributed quickly, and where workshops run on-time _can still be a total failure._
+It's also important that you don't get overly sidetracked by focusing on putting on an efficient event. An event where there's no check-in line, where food arrives warm and is distributed quickly, and where workshops run on-time _can still be a total failure._
 
 Being a Code Evangelist requires recognizing that personal interactions are often inefficient, but that you should prioritize them anyway:
 

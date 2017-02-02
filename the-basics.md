@@ -18,7 +18,7 @@ Let's talk a little about biases. TK
 
 Many people reading this section will be in the majority demographic in most important ways. From the position, it can often be difficult to see how those characteristics can dramatically affect others' interactions with the world.
 
-Take a few minutes to read through this very small selection of privlidges you might have. If you could only retain a few of these privlidges, which would you choose? Which would you give up?
+Take a few minutes to read through this very small selection of privileges you might have. If you could only retain a few of these privileges, which would you choose? Which would you give up?
 
 * Being able to create video game characters which look like you.
 * Finding role models and mentors of the same gender as you.
@@ -31,7 +31,7 @@ Take a few minutes to read through this very small selection of privlidges you m
 * Having your partner accepted by your family.
 * Making new friends without fear that they'll cut contact when they get to know you.
 
-Most of these samples had to do with sex and gender identity, but there are many other important factors which might lead to privlidges. Take a moment and consider what might have been unavailable or more difficult if not for:
+Most of these samples had to do with sex and gender identity, but there are many other important factors which might lead to privileges. Take a moment and consider what might have been unavailable or more difficult if not for:
 
 * Your ethnicity
 * Where you live
