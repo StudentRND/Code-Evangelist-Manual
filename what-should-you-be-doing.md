@@ -1,10 +1,12 @@
-If you're the Code Evangelist at a larger event, you should probably be specifically focusing on the job, and not event-specific responsibilities. If you're at a smaller event, you'll also need to do some event-specific tasks, which you'll be trained for separately.st
+If you're the Code Evangelist at a larger event, you should probably be specifically focusing on the job, and not event-specific responsibilities. If you're at a smaller event, you'll also need to do some event-specific tasks, which you'll be trained for separately.
 
 Either way, as a Code Evangelist, you can use the following as a cheat-sheet of what your number-one priority should be throughout the event:
 
 # Hour-by-Hour
 
 ## The Early-Event
+
+(The only thing you'll need to use your laptop for the entire event is the early event: you can access check-in and the kickoff slides on the Day-Of page on Clear.)
 
 - **11am-noon:** [Check-in!](https://clear.codeday.org/dayof) Focus on first-impressions. Make sure students know to be friendly, to meet new people, and to not be competitive with events and by meeting people and asking questions.
 - **Noon:** [Kickoff!](https://clear.codeday.org/dayof/deck/slides) Make sure existing teams pitch their ideas and recruit new members, and that shy students speak up (pitch silly ideas). 
