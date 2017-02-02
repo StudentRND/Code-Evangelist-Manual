@@ -6,8 +6,8 @@ Either way, as a Code Evangelist, you can use the following as a cheat-sheet of 
 
 ## The Early-Event
 
-- **11am-noon:** Focus on first-impressions. Make sure students know to be friendly, to meet new people, and to not be competitive with events and by meeting people and asking questions.
-- **Noon:** Kickoff! Make sure existing teams pitch their ideas and recruit new members, and that shy students speak up (pitch silly ideas). 
+- **11am-noon:** [Check-in!](https://clear.codeday.org/dayof) Focus on first-impressions. Make sure students know to be friendly, to meet new people, and to not be competitive with events and by meeting people and asking questions.
+- **Noon:** [Kickoff!](https://clear.codeday.org/dayof/deck/slides) Make sure existing teams pitch their ideas and recruit new members, and that shy students speak up (pitch silly ideas). 
 - **1-2pmish:** Lunch! Also the [Intro Workshop](https://blog.srnd.org/jumping-over-chairs-and-learning-to-make-a-game-with-construct-2-a796f4def9e9)
 - **Until 5pm:** Patrol the venue, talk with groups, and troubleshoot culture problems.
 
