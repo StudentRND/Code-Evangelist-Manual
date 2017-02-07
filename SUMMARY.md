@@ -11,4 +11,5 @@
   * [The Basics](the-basics.md)
 * [Getting in Fights](getting-in-fights.md)
 * [Final Exam](final-exam.md)
+* [Event Training](event-training.md)
 
