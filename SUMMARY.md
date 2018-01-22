@@ -9,7 +9,10 @@
 * [What Should You Be Doing?](what-should-you-be-doing.md)
 * [People Who Aren't Like You](inclusion.md)
   * [The Basics](the-basics.md)
-* [Getting in Fights](getting-in-fights.md)
+* [Behavior](behavior/README.md)
+  * [Getting in Fights](behavior/confrontation.md)
+  * [Discipline Counseling](behavior/counseling.md)
+  * [Concequences](behavior/referral.md)
 * [Final Exam](final-exam.md)
 * [Event Training](event-training.md)
 
