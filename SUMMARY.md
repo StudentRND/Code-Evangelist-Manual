@@ -5,7 +5,7 @@
 * [Creating the Culture](culture/README.md)
   * [Be Friendly](culture/friendly.md)
   * [Have Fun](culture/fun.md)
-  * [Explore](culture/enthusiasm.md)
+  * [Explore](culture/explore.md)
 * [Answering Questions](questions.md)
 * [Inclusion](inclusion/README.md)
   * [People Who Aren't Like You](inclusion/lgbtq.md)
