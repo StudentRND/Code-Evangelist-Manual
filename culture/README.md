@@ -1,53 +1,36 @@
-When you hear "company culture", do you think ping-pong tables and [free Odwalla?](https://techcrunch.com/2013/06/05/mourn-the-loss-of-odwalla-mourn-the-loss-of-your-job/) If so, you might have had a little too much of the Silicon Valley Kool-Aid. The real culture of an organization comprises:
+Code Evangelists are most successful when we create the right culture
 
-- What's expected of individuals.
+- Be friendly
+- Have fun
+- Explore
+
+# How Culture is Actually Formed
+
+When you hear "company culture", do you think ping-pong tables and
+[free Odwalla?](https://techcrunch.com/2013/06/05/mourn-the-loss-of-odwalla-mourn-the-loss-of-your-job/) If so, you
+might have had a little too much of the Silicon Valley Kool-Aid. The real culture of an organization comprises:
+
+- What's expected and who gets rewarded.
 - How decisions are made.
-- Who gets rewarded, and who gets punished.
 
-Free snacks and game areas are just one small expression of a much larger culture. In the case of the stereotypical ping-pong-table startup, the culture often involves an expectation of lots of work, informal communication and decision hierarchies, and rewarding the loudest and most visible team members with more responsibilities. The free snacks and games are only an indication of the expectation that you'll spend a lot of time in the office talking with co-workers.
+Free snacks and game areas are just one small expression of a much larger culture (one that means "you're expected to
+spend a lot of time at this office.")
 
-CodeDay is no different, but getting our culture right is essential to having a successful event. Let's briefly look at what that culture is:
+Our cultural values translate to:
 
-- **What's expected of individuals:**
-  - Be friendly and supportive. Meet people.
-  - Have fun.
-  - Don't be very competitive.
+- **What's expected and who gets rewarded:**
+  - People are expected to be friendly and meet new people.
+  - People who make something fun and try something new are rewarded.
 - **How decisions are made:**
-  - Students can make decisions, we're not teachers.
-  - Evangelists will promote any good idea, we're not bureaucratic.
-- **Who gets rewarded, and who gets punished:**
-  - People who love code, and make something which shows they care about learning and exploring win.
-  - People who try to show off don't get anything.
-  
-# Students understand the culture though thousands of tiny interactions, but the early ones matter the most.
-  
-As you go through CodeDay, you should think about which actions you can take to help define the culture. Here are a few examples of actions you can do. The bold ones are strongly encouraged, but we don't expect you to memorize the entire list -- look for ways to express our culture in your own way.
+  - (Almost) anything that's fun is allowed.
 
-- Be friendly and supportive. Meet people:
-  - **Greet each participant as they come in the door. Ask them about themselves.**
-  - If you have a larger staff, have an internal contest to see who can talk to the most people before the kickoff.
-  - Ask students directly how you can help them have a fun event.
-  - Talk about what areas of code you struggle with when asking students about their goals.
-  - **Host a group tournament before things get started, such as Rock-Paper-Scissors.**
-  - Encourage all groups to get meals at the same time. Allow lines to form, and encourage talking in the lines.
-  - Make the midnight snack an "ice cream social" and require no coding for 15 minutes to get the snack.
-  - Number nametags with a random number from 1-5 as attendees pick them up. Host an activity later requiring attendees to meet up with their number-groups.
-- Have fun:
-  - Make a fun nametag, and encourage attendees to do the same.
-  - **Have unusual contests, like the no-hands programming contest.**
-  - **Pitch strange ideas at the start of the event, like the "Morganfy Me" app.**
-  - Pass out the "I HEART CODE" stickers as rewards for doing something fun or attending an event. (n.b. the quoted phrase is your password to the final exam.)
-- Don't be competitive:
-  - **Require all pre-formed teams to pitch their ideas, and allow new members to join those teams.** Let them know before the pitches.
-  - Remind teams which seem focused on making a polished product that it's the least important judging criteria when patrolling.
-  - Don't allow teams to present pitch decks.
-  - Ensure mentors are briefed on the importance of fun.
-- Students can make decisions:
-  - Let students know that they can give you ideas for how to make the event more fun.
-  - Give a random student who seems stressed out the choice between a few possible activities for the entire group.
-  - Ask a student to lead an activity for you.
-  - Let students know how they can become volunteers.
-  - Encourage more experienced students to become impromptu mentors.
-- Evangelists will promote good ideas:
-  - Even when you don't like an idea, consider aspects of the idea which could be good.
-  - Use "Yes, and..." phrasing to make an incomplete suggestion better.
+## Ice Cream
+
+Pretend I ask you, "do you want ice cream?" Almost all reasonable people will say yes. Yet thousands of ice cream shops
+go out of business in the US each year. That's because what people say they want and what people actually want are very
+different.
+
+A lot of building culture fits into this pattern. If you simply ask an attendee to take a break, participate in an
+activity, or meet new people, they'll usually say they don't want to.
+
+Much of our job, therefore, is finding as many ways to encourage students to participate as possible.

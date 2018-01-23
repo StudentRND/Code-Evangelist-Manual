@@ -1,3 +1,9 @@
+// TODO(@tylermenezes)
+
+You'll also notice that this is not a "pull" job -- students will not come to you with their problems. (They might ask
+for help with big, code-related problems, but that's not really your job.) Don't set up a station, you should be
+patrolling the venue, looking for people who need help.
+
 To work with students' existing interests, you need to start by knowing each individual student.
 
 As you check in each attendee, ask her what brought her to the event. Here are some particular questions you can ask
@@ -37,7 +43,7 @@ fully incorporate coding into their existing identity.
 
 
 
-
+# Removing Barriers to Explore
 
 As the event progresses, you'll need to look for ways to encourage attendees to participate in coding on their teams, which means:
 

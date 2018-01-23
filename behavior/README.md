@@ -15,13 +15,12 @@ At SRND events, students are subject to the [Code of Conduct and Community Stand
 should make a point to familiarize yourself, but never let the lack of a rule prevent you from standing up for what's
 right.
 
-We have rules in order to make the event safe and fun, so it's important that we're active in enforcing them. Attendees,
-particularly beginners, may feel uncomfortable asking for help.
-
-TODO(@tylermenezes): More info on why people don't seek help
-
 Likewise, it's important that we apply the rules equally to everyone, even if they're a critical member of the event
 staff, a $5,000 sponsor, or a VIP.
+
+# Keep An Eye Out
+
+TODO(@tylermenezes)
 
 # Don't Rush In
 

@@ -1,33 +1,20 @@
-As we've discussed a number of times, most students don't want to learn to code to further their education -- if they do learn to code, it's usually because they think it's _fun._
+  - **Greet each participant as they come in the door. Ask them about themselves.**
+  - If you have a larger staff, have an internal contest to see who can talk to the most people before the kickoff.
+  - Ask students directly how you can help them have a fun event.
+  - Talk about what areas of code you struggle with when asking students about their goals.
+  - **Host a group tournament before things get started, such as Rock-Paper-Scissors.**
+  - Encourage all groups to get meals at the same time. Allow lines to form, and encourage talking in the lines.
+  - Make the midnight snack an "ice cream social" and require no coding for 15 minutes to get the snack.
+  - Number nametags with a random number from 1-5 as attendees pick them up. Host an activity later requiring attendees to meet up with their number-groups.
 
-Or, some of it is fun. As most professionals have learned, there really isn't such a thing as "coding," there's just "debugging" and "bugging." And debugging isn't really fun. For most of us, our morale with programming looks a bit like:
 
-This is a big problem for beginners, however, who have an often wildly-inaccurate mental picture of how the computer is executing their code, and spend a huge amount of time trying to implement simple features. Without real progress to provide benefits, here's a graph of beginner morale over time:
+  - **Require all pre-formed teams to pitch their ideas, and allow new members to join those teams.** Let them know before the pitches.
+  - Remind teams which seem focused on making a polished product that it's the least important judging criteria when patrolling.
+  - Don't allow teams to present pitch decks.
+  - Ensure mentors are briefed on the importance of fun.
 
-Eventually morale gets low enough that they reach a "f\*ck it!" point, and they pack up and leave.
-
-Classes and 1-1 mentoring can help a bit, but too much becomes "learning," and learning is boring. How do we solve this? Activities!
-
-
-## Ice Cream
-
-Pretend I ask you, "do you want ice cream?" Almost all reasonable people will say yes. Yet thousands of ice cream shops go out of business in the US each year. That's because what people say they want and what people actually want are very different.
-
-**Asking about activities is similar to asking about ice cream. Participants will say one thing \("I don't want to do this activity"\) but behave differently \(be more motivated after participating in an activity\).**
-
-It's usually difficult to get attendees to participate in activities, but it's worth the effort spent convincing them. Evangelists who get attendees to participate in activities build up the community and increase morale; evangelists who don't actually decrease beginners' self-confidence.
-
-# When to Help
-
-How do you figure out if this is necessary? Patrol the event constantly, looking for signs such as browsing reddit or playing video games, staring blankly at the screen, or physical stress markers \(biting nails, messing with hair, and so on\).
-
-This is okay once-and-a-while, but if someone is stressed for a long time, you should intervene.
-
-If it's only one person, you should talk to them directly. Ask if they need help, or ask them for help with an activity which would take their mind off the problem for a while.
-
-If you see a few people, you can also do a minor activity, such as walking around offering people snacks, soda, and swag.
-
-Most often, though, stressed attendees come in waves, and seeing some stressed attendees might be a sign that it's a good time for a group activity.
+# Enthusiasm and Embracing the Awkwardness
 
 # Icebreakers
+
 

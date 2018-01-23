@@ -22,17 +22,10 @@ have the opportunity to watch and practice:
 
 You can expect feedback after you practice, but it's more "training" and less "evaluation."
 
-# Running an Event
-
-This training covers how to be effective as a Code Evangelist. If you're running SRND events, you should also
-familiarize yourself with those event formats (particularly if you're running a smaller event, where you might not have
-volunteers to help with logistics.)
-
-- [CodeDay Event Training](https://codeday.training.srnd.org/)
-
-
 # After-Event Feedback
 
-Once you lead your first event, you might wonder: how can I tell how I'm doing?
+After the end of an assigned event, we'll do our best to provide you with specific feedback.
 
-// TODO
+Because no one in a supervisory role will be at the event (except if you're shadowing another Code Evangelist), this
+feedback comes from student/volunteer survey responses, and these are often... not that detailed. You're encouraged,
+then, to talk to students as they leave the event to try to get more specific feedback.
