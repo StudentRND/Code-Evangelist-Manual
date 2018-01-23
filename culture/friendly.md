@@ -8,21 +8,6 @@ Eventually morale gets low enough that they reach a "f\*ck it!" point, and they 
 
 Classes and 1-1 mentoring can help a bit, but too much becomes "learning," and learning is boring. How do we solve this? Activities!
 
-# Activities
-
-Activities allow attendees to take their mind off their problems for a bit. This has the effect of increasing their happiness, and increasing the probability of actually solving their problem.
-
-You can create your own activities, but here are some we've found to be fun:
-
-* **Picture Drawing Contests:** Assign a subject (such as "corgis") and award small prizes for the best drawings of that subject. Other attendees or volunteers can be the judges.
-* **Mini Programming Contests:** Offer a small prize for the first to code a relatively simple program. You can find plenty of programming challenges on https://projecteuler.net/archives
-* **Karaoke or Group Sing-Alongs:** (e.g. "I'll Make a Man Out of You") 
-* **Slideshare Improv:** Run in a workshop room, attendees take turns being given a random slideshow from [SpeakerDeck](https://speakerdeck.com/), [SlideShare](http://www.slideshare.net/), [Note & Point](http://noteandpoint.com/), [emaze](https://www.emaze.com/get-inspired/), or [Prezi](https://prezi.com/gallery/). They need to give a three-minute talk while seeing the slides for the first time.
-* **Lightening Talks:** Run as a workshop, participants are given the opportunity to give a four-minute talk about anything which is interesting to them.
-* **Group Outings:** A group of people walks to a nearby convenience store, landmark, etc late at night. All minors should sign out and in, at least two volunteers should go (one at the back, and one at the front), and regular counts should be made to ensure no one was lost.
-* **No-Hands Fizz-Buzz:** Attendees race to be the first to have a working fizz-buzz implementation for a small prize, but aren't allowed to use their hands.
-
-Activities should be used sparingly, and should be kept brief: 15-20 minutes for something which might distract non-participants \(like karaoke in the same room as coding\), or an hour for those which only pull people away from their team \(like an outing\).
 
 ## Ice Cream
 
@@ -43,4 +28,6 @@ If it's only one person, you should talk to them directly. Ask if they need help
 If you see a few people, you can also do a minor activity, such as walking around offering people snacks, soda, and swag.
 
 Most often, though, stressed attendees come in waves, and seeing some stressed attendees might be a sign that it's a good time for a group activity.
+
+# Icebreakers
 

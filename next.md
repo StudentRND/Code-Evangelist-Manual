@@ -9,14 +9,27 @@ reference this manual.
 
 # Shadowing
 
-If possible, we will assign you to shadow an existing Code Evangelist before your first event on your own. During your
-shadow, you'll have the opportunity to watch and practice:
+If possible, we will assign you to shadow an existing Code Evangelist at one of our events.  During a shadow, you'll
+have the opportunity to watch and practice:
 
-- Enthusiasm, and embracing the awkwardness
-- Gathering attendee insights and building connections
+- Creating the culture:
+  - Being friendly and enthusiastic
+  - Running an activity
+- Supporting students:
+  - Gathering insights from community members
+  - Guiding technical questions
 - Leading conversations and answering questions
 
 You can expect feedback after you practice, but it's more "training" and less "evaluation."
+
+# Running an Event
+
+This training covers how to be effective as a Code Evangelist. If you're running SRND events, you should also
+familiarize yourself with those event formats (particularly if you're running a smaller event, where you might not have
+volunteers to help with logistics.)
+
+- [CodeDay Event Training](https://codeday.training.srnd.org/)
+
 
 # After-Event Feedback
 

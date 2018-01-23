@@ -1,3 +1,6 @@
+**We do not answer technical questions.**
+
+
 # What \(Not\) to Say
 
 People will ask you a lot of questions at CodeDay.
