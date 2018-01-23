@@ -1,3 +1,5 @@
+  // TODO(@tylermenezes)
+  
   - **Greet each participant as they come in the door. Ask them about themselves.**
   - If you have a larger staff, have an internal contest to see who can talk to the most people before the kickoff.
   - Ask students directly how you can help them have a fun event.

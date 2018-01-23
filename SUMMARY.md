@@ -8,7 +8,7 @@
   * [Explore](culture/explore.md)
 * [Answering Questions](questions.md)
 * [Inclusion](inclusion/README.md)
-  * [People Who Aren't Like You](inclusion/lgbtq.md)
+  * [People Who Aren't Like You](inclusion/not-like-you.md)
   * [Privilege and Bias](inclusion/privilege-bias.md)
   * [Mental Health](inclusion/mental-health.md)
 * [Behavior Problems](behavior/README.md)
