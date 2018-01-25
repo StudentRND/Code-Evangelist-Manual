@@ -24,7 +24,6 @@ section:
 Like with being friendly and enthusiastic, this feels, at times, awkward, but it's best to embrace the awkward, and
 ask questions anyway.
 
-
 # More than Just Facts
 
 Our goal is to gain useful information about the students at our events, not just rote facts. What's the difference?

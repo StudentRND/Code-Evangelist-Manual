@@ -24,7 +24,7 @@ Our cultural values translate to:
 - **How decisions are made:**
   - (Almost) anything that's fun is allowed.
 
-## Ice Cream
+# Ice Cream
 
 Pretend I ask you, "do you want ice cream?" Almost all reasonable people will say yes. Yet thousands of ice cream shops
 go out of business in the US each year. That's because what people say they want and what people actually want are very
@@ -34,3 +34,13 @@ A lot of building culture fits into this pattern. If you simply ask an attendee 
 activity, or meet new people, they'll usually say they don't want to.
 
 Much of our job, therefore, is finding as many ways to encourage students to participate as possible.
+
+
+# Patrolling
+
+Culture is built by interactions.  During events, we need to interact with as many people as possible, so while we're
+working, we should be walking around and talking to people -- we call this "patrolling."
+
+In fact, while you're working, you shouldn't need your laptop at all, and you should only sit down if you're tired.
+Remember, students won't come to us with a complaint that the event isn't friendly enough, or they don't feel
+comfortable exploring CS yet. We need to be proactive in reaching out.

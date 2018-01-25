@@ -38,10 +38,11 @@ questions: you risk students leaving _less_ empowered.
 
 # The Exception
 
-Ok, so sometimes we do have to answer questions. The two usual reasons are:
+Ok, so sometimes we do have to answer questions. The three usual reasons are:
 
 * It's a "find the button" question.
 * They've been banging their heads for a 5-10 minutes, despite your attempts to help.
+* They've been getting stuck a lot recently, and are getting frustrated. (Encourage them to take a break, too!)
 
 # When to Help
 
