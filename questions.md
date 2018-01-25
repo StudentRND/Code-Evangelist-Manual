@@ -23,7 +23,7 @@ A good indication that you're doing something wrong: if a group keeps asking you
 Many students subconsciously believe in the idea of a universal programming expert; that, after working in the industry
 for some number of years, you become an endless repository of knowledge. They probably think you're one of those people.
 
-Beginner programmers tend to be the most affected by this because they have basic questions, “how do I add files in
+Beginner programmers tend to be the most affected by this because they have basic questions, like “how do I add files in
 Git?”, which people who’ve been programming for more than a month have dealt with hundreds of times. Most programmers
 know Git, but even the best of us struggle with Linux kernel development. 
 
