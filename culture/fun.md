@@ -14,7 +14,6 @@ Activities should be used sparingly, and should be kept somewhat brief -- 15-30 
 
 
 
-
 # Low-Energy
 
 Most participants in these activities are seated. They tend to be better at building the event culture, but they don't

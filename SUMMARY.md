@@ -8,7 +8,7 @@
   * [Explore](culture/explore.md)
 * [Answering Questions](questions.md)
 * [Inclusion](inclusion/README.md)
-  * [Privilege and Bias](inclusion/privilege-bias.md)
+  * [Privileges](inclusion/privilege-bias.md)
   * [Mental Health](inclusion/mental-health.md)
 * [Behavior Problems](behavior/README.md)
   * [De-Escalation](behavior/de-escalation.md)

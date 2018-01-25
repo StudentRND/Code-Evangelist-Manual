@@ -13,6 +13,17 @@ we need to get to know every student at the event: a daunting task which will ta
 Students, generally, will not start conversations with us. It's very important that we're intentional about seeking
 out each student and starting a conversation. To use a technical metaphor, this is a push, rather than a pull, model.
 
+If you walk up to someone and have literally no idea what to say, you can use the same few we list in the "Friendly"
+section:
+
+- Is this your first time going to something like this?
+- What made you register for CodeDay?
+- Do you have any ideas you want to make?
+- How do you think you'll help out on a team?
+
+Like with being friendly and enthusiastic, this feels, at times, awkward, but it's best to embrace the awkward, and
+ask questions anyway.
+
 
 # More than Just Facts
 
