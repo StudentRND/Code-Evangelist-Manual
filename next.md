@@ -5,8 +5,6 @@ Your next step is to take the [review exam.](https://srnd.wufoo.com/forms/code-e
 will help us understand how we can best help you prepare for your job. There's no failing score, so please don't
 reference this manual.
 
-(Don't know the password? You didn't read this manual closely enough ;))
-
 # Shadowing
 
 If possible, we will assign you to shadow an existing Code Evangelist at one of our events.  During a shadow, you'll
