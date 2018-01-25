@@ -1,5 +1,7 @@
 Code Evangelists are most successful when we create the right culture
 
+// TODO
+
 - Be friendly
 - Have fun
 - Explore
