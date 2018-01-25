@@ -1,6 +1,4 @@
-Code Evangelists are most successful when we create the right culture
-
-// TODO
+The culture we create at events is part of what makes us special. Simply put, our cultural values are:
 
 - Be friendly
 - Have fun
