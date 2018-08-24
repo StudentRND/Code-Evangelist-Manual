@@ -15,4 +15,4 @@ Whenever an incident involves harassment, offensive or sexualized language or im
 you should escalate it to the Conduct team. We are obligated to follow certain procedures per agreements with our
 school and university partners, and we don't expect Code Evangelists to know the exact thing to do.
 
-You can react Conduct on the staff hotline, 855-556-SRND (855-556-7763), option 1.
+You can react Conduct on the security/emergency hotline, 844-864-8443.
